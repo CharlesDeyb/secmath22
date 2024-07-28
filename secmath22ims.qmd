@@ -10,3 +10,184 @@ editor: visual
 ---
 
 ## Grade 7 Measurement IMs
+
+
+Republic of the Philippines
+NUEVA VIZCAYA STATE UNIVERSITY
+	Bayombong, Nueva Vizcaya	
+
+	COLLEGE OF TEACHER EDUCATION 
+					
+In this lesson, you will learn how to solve problems involving conversion of units and its prerequisite skill which is the conversion of measurements from one unit to another in both Metric and English systems. Since these systems are widely used in our community, a good grasp of the concept will help you to be more accurate in solving these problems. 
+
+Activity 1.
+	Let’s have activity called hunting words. Each student must find a word that connects to our next topic. Then tell whether if it used to measure the LENGTH, WEIGHT, and TIME.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Activity 2.
+	Match each unit of measurement with its corresponding equivalent. Pairing up cards or drawing lines between units on a chart to match the ffg.Each card/chart have one unit listed, along with its equivalent in another metric unit. For example, one card might have "1 kilometer" on it, and its matching card would have "1000 meters."
+
+
+
+
+
+
+
+
+
+
+
+
+	To be able to solve problems similar to the given activity, we need to practice the skill of converting measurements from one unit to another.
+
+CONVERSION OF MEASUREMENTS FROM ONE UNIT TO ANOTHER
+
+Conversion of units is the conversion between different units of measurement for the same quantity, typically through multiplicative conversion factors. Conversion Factor is a number used to change one set of units to another, either by multiplying or dividing. This involves the English System which is based on a non-universal way of measuring by means of human body parts or other instrument and the Metric System which is based on a decimal system.
+
+The conversion could be from same system: English System to English System or Metric System to Metric System. It could also be from English System to Metric System and vice versa. The table of conversion is needed to convert one unit to another unit
+
+
+ 
+
+
+How to Convert A Unit of Measurement to Another Unit
+1. Compare the two units.
+2. Find the conversion factors that gives the appropriate ratio to the given unit.
+3. Write the conversion as a fraction, where the denominator is in the same unit
+as the given unit.
+4. Write a multiplication problem with the original number and the fraction
+5. Cancel out similar units that appears on the numerator and denominator.
+6. Solve. 
+
+
+
+
+
+
+
+
+
+
+In this chart, given the measurement, we will just move the decimals to the desired conversion unit.
+
+Example 1: 5 m to cm
+Where do we put the 5? 
+
+
+
+5 m = 500 cm, sir.
+
+
+
+In this method, converting from left to right, we will multiply the given unit by 10, depending on the number of units that we pass by as you can see on the image.
+
+Example: 37 hm to cm.       10×10×10×10=10000cm=1hm
+                                             37 hm = 10000cm/1hm
+                                             37hm= 370000cm
+
+
+
+Exercise 3. Anxwer the following questions.
+1. You have a piece of fabric that measures 2.5 meters. You need to convert this length into inches. Use the conversion factor 1 meter = 39.37 inches
+
+2. A recipe requires 4 cups of flour, but you only have a scale that measures in grams. Convert the 4 cups of flour to grams. Use the conversion factor 1 cup of flour = 120 grams.
+
+
+
+
+
+Exercise 4. Quiz 
+
+A. Multiple Choice Questions
+1. Which of the following is equivalent to 1 kilometer?
+a) 100 meters
+b) 1,000 meters
+c) 10,000 meters
+d) 100,000 meters
+
+2. How many centimeters are there in 5 meters?
+a) 50 cm
+b) 500 cm
+c) 5,000 cm
+d) 50,000 cm
+
+3. Which of the following is closest to 2.54 centimeters?
+a) 1 inch
+b) 1 foot
+c) 1 yard
+d) 1 mile
+
+4. Convert 3 feet to inches.
+a) 12 inches
+b) 24 inches
+c) 36 inches
+d) 48 inches
+
+5. What is the metric equivalent of 1 gallon?
+a) 3.785 liters
+b) 2 liters
+c) 4.546 liters
+d) 1.5 liters
+
+B. True or False
+1. One kilogram is equal to 1,000 grams.
+True / False
+
+2. There are 2.54 centimeters in an inch.
+True / False
+
+3. A mile is longer than a kilometer.
+True / False
+
+4. 100 milliliters is the same as 1 liter.
+True / False
+
+5. One meter is longer than one yard.
+True / False
+
+
+
+
+
+C. Short Answer Questions
+1. Convert 250 centimeters to meters.
+
+2. If a car travels 60 miles per hour, how many kilometers per hour is this approximately? (Use 1 mile ≈ 1.609 kilometers)
+
+3. Convert 500 grams to kilograms.
+
+4. How many milliliters are there in 2 liters?
+
+5. Convert 10 inches to centimeters. (Use 1 inch = 2.54 cm)
+
+	
+
+
+Assignment. None
